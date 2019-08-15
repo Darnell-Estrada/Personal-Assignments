@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.HashMap;
 
-public class VeevaTechnicalInterview{
+public class TechnicalInterview{
     public static void main(String... args){
         Scanner keyboard = new Scanner(System.in);
 
